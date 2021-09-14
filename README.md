@@ -13,10 +13,3 @@ yarn migration:run
 # development
 $ yarn start:dev
 ```
-
-## Test
-
-```bash
-# unit tests
-$ yarn test
-```
